@@ -1,0 +1,13 @@
+.completedTask{
+    text-decoration: line-through;
+    color: red ;
+}
+
+.incompleteTask{
+    text-decoration: none;
+    color: #C1C2C5;
+
+}
+.myCard{
+    background-color: #25262B;
+}

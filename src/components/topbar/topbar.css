@@ -1,0 +1,26 @@
+.topbarContainer{
+    height: 60px;
+    width: 100%;
+    background-color: #25262B;
+    position: sticky;
+    display: flex;
+    align-items: center;
+    top: 0;
+    z-index: 999;
+}
+
+.topbarLeft{
+    background-color: #25262B;
+    flex: 4;
+}
+
+.logo{
+    background-color: #25262B;
+    font-family: 'Roboto', sans-serif;
+    font-size: 32px;
+    margin-left: 20px;
+    font-weight: bold;
+    cursor: pointer;
+    color: #C1C2C5;
+}
+

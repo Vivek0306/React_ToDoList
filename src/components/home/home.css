@@ -1,0 +1,40 @@
+.homeContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 70vh;
+}
+
+.homeBox {
+    background-color: #F3E779;
+    border: 1px solid #fff;
+    width: 450px;
+    text-align: center;
+    position: fixed;
+}
+
+.homeTitle {
+    position: relative;
+    width: 100%;
+    height: 50px;
+    margin-bottom: 20px;
+    background-color: #ffa930;
+    text-align: center;
+    padding-top: 10px;
+    color: black;
+    font-size: 34px;
+    font-weight: 800;
+}
+
+.homeInfoList{
+    list-style: none;
+    padding: 0 10px;
+    padding-bottom: 20px;
+    text-align: start;
+}
+
+.homeInfoListItem{
+    padding: 10px 0;
+    font-size: 17px;
+    font-weight: 400;
+}
